@@ -1,5 +1,3 @@
-Here is the `README.md` content **embedded directly into your codebase**, using a multi-line comment at the top of `M3u8_MultiV2.py`:
-
 ---
 
 ### ✅ Updated `M3u8_MultiV2.py` (with README embedded)
